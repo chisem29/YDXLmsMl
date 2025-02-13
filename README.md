@@ -3,4 +3,4 @@ Yandex specializes in machine learning, it is in this repository that you can ob
 
 ## More
 
-- YDX LMS - https://lms.yandex.ru/
+- YDX LMS - https://lms.yandex.ru/ml
